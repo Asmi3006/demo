@@ -1,0 +1,30 @@
+https://github.com/Asmi3006/demo.git unit 1
+assignment question:
+1.What is JVM? Explain JVM components with diagram.
+2.Explain JDK,JVM,JRE with diagram 
+ 
+ 
+14.what is java list and explain java features.
+study all practical programs.
+
+
+
+unit 2:
+1 
+2. 
+3.What is inheritance? Explain types with diagram.
+4.write program of:
+     1.single inheritance
+      2.multiple inheritance
+    3.multilevel
+    4.hierachical 
+    5.program of abstract class and abstract method with explanation
+6.difference between:
+ i. abstract class and interface
+ii. constructor and method
+iii. class and interface
+7.exaplian garbage collection
+8.rules of creating interface
+9.rules of creating abstract class and abstract method
+10what is polymorphism? explain compile time and runtime polymorphism with program.
+11Program to Demonstrate the use of user defined Interface.
